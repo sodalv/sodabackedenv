@@ -21,6 +21,13 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: #2b2b2b;
   }
+}
+
+@font-face {
+  font-family: 'FUTU';
+  src: url('../fonts/FUTU____.TTF');
+  font-weight: normal;
+  font-style: normal;
 }
